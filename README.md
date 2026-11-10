@@ -1,5 +1,5 @@
 # Programación
-Proyectos e implementacion de bibliotecas de la materia Programacion (2009). Realizados en el Primer / Segundo Cuatrimestre 2022.
+Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C/2C 2022 - UNLaM.
 
 ## Unidad 1 - Arrays y archivos
 * Introducción a la abstracción de datos y ocultamiento de información.
