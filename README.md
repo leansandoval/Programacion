@@ -63,6 +63,8 @@ Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C
 ## Unidad 6 - Introducción a C++ – Programación Orientada a Objetos (POO)
 <img width="700" alt="Resumen C++" src="https://github.com/user-attachments/assets/6001ac8e-1b62-4407-91fb-37fb5752da04" />
 
+<img width="700" alt="Punteros vs Referencias" src="https://github.com/user-attachments/assets/6158ce46-d485-4ea4-97d7-cd618d2c597b" />
+
 * Modificaciones menores con respecto al Lenguaje C.
 * Comentarios, punteros constantes, sobrecarga de funciones, parámetros por defecto, parámetros por alias (referencia).
 * Asignación y liberación dinámica de memoria, operadores new y delete.
@@ -99,6 +101,8 @@ Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C
 * Funciones estándar assert, terminate y unexpected.
   
 ## Unidad 10 - Introducción al Lenguaje Java
+<img width="700" alt="¿Cómo funciona Java?" src="https://github.com/user-attachments/assets/fd07f774-8d99-4982-87d5-5652ff7f1269" />
+
 * Escritura, compilación y ejecución de programas sencillos desde la línea de comando.
 * Uso de un Entorno de Desarrollo Integrado para la generación de aplicaciones de consola e interactivas.
 * Tipos de datos, operadores, precedencia de operadores, clases predefinidas en el lenguaje (String y otras).  
