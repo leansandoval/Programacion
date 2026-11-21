@@ -202,6 +202,9 @@
 
 <a id="unidad-7"></a>
 ## Unidad 7 - Programación Orientada a Objetos con C++
+<img width="700" alt="Vectores e Iteradores" src="https://github.com/user-attachments/assets/45bc7f5c-05df-4374-8c11-4c3d8d4a455e" />
+
+<img width="700" alt="Funciones Normales vs Funciones Inline" src="https://github.com/user-attachments/assets/251cef61-af6b-41b9-9552-0f28d03afbe4" />
 
 * Clases, objetos, métodos de la clase (funciones miembro), funciones amigas.
 * Especificación `inline` y `const`.
