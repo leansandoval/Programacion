@@ -1,7 +1,13 @@
 # Programación
 Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C / 2C 2022 - UNLaM.
 
-## Unidad 1 - Arrays y archivos
+## Unidad 1 - Arrays y Archivos
+<img width="700" alt="Programación en C - Conceptos Avanzados" src="https://github.com/user-attachments/assets/991e9e1b-1978-4bde-b0af-d545d5340324" />
+
+<img width="700" alt="Punteros" src="https://github.com/user-attachments/assets/fa30a5b3-60ee-42e0-9d2d-dff05bd98e1b" />
+
+<img width="700" alt="Tipos de Macros" src="https://github.com/user-attachments/assets/6e3121f8-4d17-4819-8999-12deb646f73c" />
+
 * Introducción a la abstracción de datos y ocultamiento de información.
 * Funciones de búsqueda, conversión, ordenamiento, etc.
 * Manejo de arrays con notación y aritmética de punteros.
@@ -16,27 +22,39 @@ Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C
 * Generación de arrays en tiempo de ejecución.
 * Argumentos variables.
 
-## Unidad 2 - TDA o Estructura de datos Pila
+## Unidad 2 - TDA Pila
 <img width="700" alt="¿Que es una Pila?" src="https://github.com/user-attachments/assets/b7b7a1fe-e04c-45b3-9033-a8137247a08a" />
+
+<img width="700" alt="Memoria Dinámica" src="https://github.com/user-attachments/assets/6d05de2e-4073-4c0e-8599-fa3732d50e1c" />
 
 * Asignación dinámica de memoria vs. asignación estática de memoria.
 * Primitivas para el manejo de Pilas, compatibilidad de primitivas entre la implementación estática y dinámica de Pilas.
 * Su relación con la recursividad.
 
-## Unidad 3 - TDA o Estructura de datos Cola como un TDA
+## Unidad 3 - TDA Cola
 <img width="700" alt="Como funciona una Cola" src="https://github.com/user-attachments/assets/eadcab3c-7f8a-400a-940f-d2681b3d524a" />
 
 * Asignación dinámica de memoria vs. asignación estática de memoria.
 * Primitivas para el manejo de Colas, compatibilidad entre la implementación estática y dinámica de Colas.
 * Su relación con el "bufer" de teclado.  
 
-## Unidad 4 - TDA o Estructura de datos Lista como un TDA
+## Unidad 4 - TDA Lista
+<img width="700" alt="Lista Enlazada" src="https://github.com/user-attachments/assets/b3525b96-414a-419f-9826-20e72499df6d" />
+
+<img width="700" alt="Tipos de Listas Enlazadas" src="https://github.com/user-attachments/assets/9b668696-746f-4a3e-83ae-cec9373a89cd" />
+
+<img width="700" alt="Lista Enlazada vs Lista Doblemente Enlazada" src="https://github.com/user-attachments/assets/889a3715-da7b-4877-a337-fb96b2fabdfd" />
+
 * Primitivas para el manejo de Listas.
 * Creación, inserción, ordenamiento, búsqueda, eliminación, etc., con asignación dinámica de memoria.
 * Listas circulares, su importancia en la implementación de colas y su parecido y diferencia con la implementación de pilas.
 * Listas doblemente enlazadas.
 
-## Unidad 5 - TDA o Estructura de datos Árbol
+## Unidad 5 - TDA Árbol
+<img width="700" alt="¿Qué es un Árbol Binario?" src="https://github.com/user-attachments/assets/10535d78-d82d-4050-a518-8bc80d118945" />
+
+<img width="700" alt="Árboles Balanceados" src="https://github.com/user-attachments/assets/3687ed5e-f7dd-4b58-bd91-e85ae3341fe2" />
+
 * Árbol binario, creación, recorridas EnOrden, PreOrden y PosOrden.
 * Árbol binario de búsqueda, su relación con la búsqueda binaria en arrays.
 * Determinación de altura, y otras funciones.
@@ -63,6 +81,10 @@ Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C
 * Arrays, punteros y objetos.
 
 ## Unidad 8 - Herencia  Conceptos de herencia, y su por qué.
+<img width="700" alt="Herencia Simple" src="https://github.com/user-attachments/assets/b9787cf0-4466-46c3-964e-41a624573519" />
+
+<img width="700" alt="Herencia Múltiple" src="https://github.com/user-attachments/assets/e31b5724-6e18-49db-8353-6bb1a7e4c841" />
+
 * Introducción a herencia simple y herencia múltiple.
 * Clases derivadas.
 * Diagramas de Jerarquía.
