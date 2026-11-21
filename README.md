@@ -17,11 +17,15 @@ Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C
 * Argumentos variables.
 
 ## Unidad 2 - TDA o Estructura de datos Pila
+<img width="700" alt="¿Que es una Pila?" src="https://github.com/user-attachments/assets/b7b7a1fe-e04c-45b3-9033-a8137247a08a" />
+
 * Asignación dinámica de memoria vs. asignación estática de memoria.
 * Primitivas para el manejo de Pilas, compatibilidad de primitivas entre la implementación estática y dinámica de Pilas.
 * Su relación con la recursividad.
 
 ## Unidad 3 - TDA o Estructura de datos Cola como un TDA
+<img width="700" alt="Como funciona una Cola" src="https://github.com/user-attachments/assets/eadcab3c-7f8a-400a-940f-d2681b3d524a" />
+
 * Asignación dinámica de memoria vs. asignación estática de memoria.
 * Primitivas para el manejo de Colas, compatibilidad entre la implementación estática y dinámica de Colas.
 * Su relación con el "bufer" de teclado.  
@@ -39,6 +43,8 @@ Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C
 * Árboles AVL y balanceados, determinación.
 
 ## Unidad 6 - Introducción a C++ – Programación Orientada a Objetos (POO)
+<img width="700" alt="Resumen C++" src="https://github.com/user-attachments/assets/6001ac8e-1b62-4407-91fb-37fb5752da04" />
+
 * Modificaciones menores con respecto al Lenguaje C.
 * Comentarios, punteros constantes, sobrecarga de funciones, parámetros por defecto, parámetros por alias (referencia).
 * Asignación y liberación dinámica de memoria, operadores new y delete.
@@ -62,8 +68,10 @@ Proyectos e implementacion de bibliotecas de la materia Programacion (2009) - 1C
 * Diagramas de Jerarquía.
 * Control de acceso a la clase base.
 * Especificador protected.
-  
+
 ## Unidad 9 - Excepciones
+<img width="700" alt="Excepciones" src="https://github.com/user-attachments/assets/b60a8e74-b6a3-42fe-91a5-64e9a4925f3d" />
+
 * Manejo de excepciones, throw, catch, try.
 * Especificación de excepciones.
 * Funciones estándar assert, terminate y unexpected.
